@@ -1,6 +1,6 @@
 USTH ICT Android Development 2025
 ========================================
 
-* **Your ID**
-* **Your name**
-* **Your class**
+* **22BA13056**
+* **Tran Hien Chuong**
+* **Class 1**
