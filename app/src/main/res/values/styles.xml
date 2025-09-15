@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.USTHWeather" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Có thể thêm tùy chỉnh màu sắc, font... tại đây -->
+    </style>
+</resources>
